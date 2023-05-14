@@ -277,7 +277,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -461,7 +461,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caeceacb624484daf8e379c2252fd246, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_FacePrefab: {fileID: 485635201471293854, guid: 12517f32a8871ce40b0ca17344abdb47,
+  m_FacePrefab: {fileID: 8466027238441953691, guid: 598225307e15c1f41905958381abee82,
     type: 3}
   m_MaximumFaceCount: 3
 --- !u!1 &1167446570
